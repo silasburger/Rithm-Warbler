@@ -23,7 +23,7 @@ flask run
 
 ### Clone
 
-- Clone this repo to your local machine using `https://github.com/Lulzasaur/Rithm-Warbler`
+- Clone this repo to your local machine using `https://github.com/Lulzasaur/Warbler`
 
 ---
 
