@@ -23,7 +23,7 @@ flask run
 
 ### Clone
 
-- Clone this repo to your local machine using `https://github.com/Lulzasaur/Warbler`
+- Clone this repo to your local machine using `https://github.com/silasburger/Warbler`
 
 ---
 
@@ -41,7 +41,7 @@ flask run
 
 ## Team
 
-| <a href="https://github.com/silasburger" target="_blank">**Silas Burger**</a>
-| <a href="https://github.com/silasburger" target="_blank">`github.com/silasburger`</a> | 
+| **Jay Chi**
+| <a href="https://github.com/Lulzasaur" target="_blank">`github.com/Lulzasaur`</a> | 
 
 
